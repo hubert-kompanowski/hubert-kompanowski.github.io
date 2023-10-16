@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate <a href='https://www.tcd.ie/'>Trinity College Dublin</a>.
+subtitle: PhD Candidate at <a href='https://www.tcd.ie/'>Trinity College Dublin</a>.
 
 profile:
   align: right
@@ -17,7 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-### Welcome!
+<br>
+
+## Welcome!
 
 I am a PhD candidate in the [School of Computer Science and Statistics](https://www.scss.tcd.ie/) at [Trinity College Dublin](https://www.tcd.ie/) 
 supported by the [The SFI Centre for Research Training in Digitally-Enhanced Reality (d-real)](https://d-real.ie/).
