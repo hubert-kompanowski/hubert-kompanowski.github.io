@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 ## Welcome!
 
 I am a PhD candidate in the [School of Computer Science and Statistics](https://www.scss.tcd.ie/) at [Trinity College Dublin](https://www.tcd.ie/) 
-supported by the [The SFI Centre for Research Training in Digitally-Enhanced Reality (d-real)](https://d-real.ie/).
+supported by [The SFI Centre for Research Training in Digitally-Enhanced Reality (d-real)](https://d-real.ie/).
 
 
 My research focuses on Cross-Modality Generative Shape and Scene Synthesis for XR applications
